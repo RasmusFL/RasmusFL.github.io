@@ -1,0 +1,8 @@
+---
+title: "About me"
+toc: false
+format: 
+  html:
+    page-layout: full
+---
+

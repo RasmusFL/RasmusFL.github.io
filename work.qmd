@@ -1,0 +1,36 @@
+---
+title: "Work experience"
+toc: false
+format: 
+  html:
+    page-layout: full
+---
+
+### Teaching assistant (September 2020 - present)
+at the University of Copenhagen, Department of Mathematical Sciences. My teaching history (in order from latest to earliest) is as follows:
+
+* 2022/2023
+  + Lebesgue Integral and Measure Theory
+  + Probability Theory
+  + Analysis 0
+  + Probability Theory 2
+  + Insurance and Law
+  + Study Café
+  
+* 2021/2022
+  + Discrete Mathematical Methods
+  + Linear Algebra in the Mathematical Sciences
+  + Analysis 0
+  + Study Café
+
+* 2020/2021
+  + Introduction to the Mathematical Sciences
+  + Linear Algebra in the Mathematical Sciences
+  + Geometry 1
+  + Study Café
+
+### Freelance Tutor at GoTutor (2019 - 2020)
+I mostly taught mathematics, but occasionally also other subjects.
+
+### Mathematics Tutor (September 2021 - present)
+I have worked as a self-employed tutor for several students. 

@@ -1,0 +1,73 @@
+---
+title: "Education"
+toc: false
+format: 
+  html:
+    page-layout: full
+---
+
+### Master of Science in Actuarial Mathematics (November 2022 - present)
+University of Copenhagen
+
+### Bachelor of Science in Actuarial Mathematics (September 2021 - June 2023)
+University of Copenhagen
+
+### Bachelor of Science in Mathematics (September 2018 - June 2021)
+University of Copenhagen
+
+### Technical/HTX student (2015 - 2018)
+NEXT Sukkertoppen Gymnasium
+
+## Courses completed
+
+Below are all university level courses that I have completed. All courses were taken at the University of Copenhagen. Total ECTS (including projects): 322.5
+
+* Probability theory:
+    + Probability Theory and Statistics
+    + Probability Theory/Measures and Integrals
+    + Stochastic Processes
+    + Stochastic Processes 2
+    + Stochastic Processes 3
+
+* Statistics
+    + Mathematical Statistics
+    + Regression
+    + Statistics A
+    + Statistics B
+    + Causality
+
+* Insurance and finance
+    + Accounting and Law
+    + Insurance and Law
+    + Basic Life Insurance Mathematics
+    + Basic Non-Life Insurance Mathematics
+    + Continuous Time Finance
+    
+* Analysis
+    + Analysis 0
+    + Analysis 1
+    + Lebesgue Integral and Measure Theory/Analysis 2
+    + Complex Analysis
+* Algebra and number theory
+    + Linear Algebra in the Mathematical Sciences
+    + Algebra 1
+    + Algebra 2
+    + Introduction to Number Theory
+    + Algebra 3 (as a project outside course scope)
+    + Homological Algebra
+    + Commutative Algebra
+* Geometry and topology
+    + Geometry 1
+    + Topology
+    + Algebraic Topology
+    + Geometry 2
+    + Algebraic Geometry (as a project outside course scope)
+    + Algebraic Geometry 2
+* Miscellaneous
+    + Introduction to the Mathematical Sciences
+    + Discrete Mathematical Methods
+    + Theory of the Mathematical Sciences
+    + Algorithms and Data Structures
+    + Introduction to Economics
+    + Introduction to Numerical Analysis
+

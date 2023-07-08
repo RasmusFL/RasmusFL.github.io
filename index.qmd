@@ -1,0 +1,25 @@
+---
+about: 
+  template: jolla
+  links:
+    - icon: github
+      text: Github
+      href: https://github.com/RasmusFL
+---
+
+## Welcome to my website! 
+
+This website contains more or less all you need to know about me. More things to come. Feel free to explore! 
+
+## Who am I?
+
+I am an actuarial mathematics student at the University of Copenhagen with a broad range of academic interests. These include (but are not limited to) probability theory, insurance, statistics, algebraic geometry and number theory. I also like to teach mathematics among other things. 
+
+## CV
+
+My CV can be found here: [CV](CV.pdf)
+
+## Contact
+
+Write a mail to me at rfl@math.ku.dk
+

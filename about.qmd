@@ -1,0 +1,21 @@
+---
+title: "About me"
+toc: false
+format: 
+  html:
+    page-layout: full
+---
+
+## Academic interests
+
+My interests evolve around probability theory and statistics. My statistical interests are very broad, and I like both the theoretical and practical aspects of the field. In probability theory, I like everything involving stochastic processes. As for insurance, I am not yet ready to choose my direction, but I particularly like working with the mathematics of non-life insurance.
+
+## Other interests
+
+I love reading, especially science fiction (Arthur C. Clarke, Isaac Asimov and Frank Herbert are among my favorites) and fantasy (Narnia and The Lord of The Rings especially). I also enjoy reading horror novels such as those by Stephen King. I am also interested in reading/studying the Bible. I especially like the many prophecies and their interpretations.
+
+As for interests not involving reading, I like to run, preferably around three times a week. Teaching mathematics is also a hobby of mine.
+
+In regards to music, I like many different genres. I am fond of rock, metal (especially power metal) and synthwave. Most popular music from the 50s to the 90s is also a hit.
+
+
