@@ -6,8 +6,8 @@ format:
     page-layout: full
 ---
 
-### Teaching assistant (September 2020 - present)
-at the University of Copenhagen, Department of Mathematical Sciences. My teaching history (in order from latest to earliest) is as follows:
+### Teaching assistant
+at the University of Copenhagen, Department of Mathematical Sciences (September 2020 - present). My teaching history (in order from latest to earliest) is as follows:
 
 * 2022/2023
   + Lebesgue Integral and Measure Theory
@@ -29,8 +29,8 @@ at the University of Copenhagen, Department of Mathematical Sciences. My teachin
   + Geometry 1
   + Study Café
 
-### Freelance Tutor at GoTutor (2019 - 2020)
-I mostly taught mathematics, but occasionally also other subjects.
+### Freelance Tutor at GoTutor 
+I mostly taught mathematics, but occasionally also other subjects (2019 - 2020).
 
-### Mathematics Tutor (September 2021 - present)
-I have worked as a self-employed tutor for several students. 
+### Mathematics Tutor
+I have worked as a self-employed tutor for several students (September 2021 - present). 

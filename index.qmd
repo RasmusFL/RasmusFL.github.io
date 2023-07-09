@@ -5,6 +5,9 @@ about:
     - icon: github
       text: Github
       href: https://github.com/RasmusFL
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/
 ---
 
 ## Welcome to my website! 
