@@ -7,7 +7,7 @@ about:
       href: https://github.com/RasmusFL
     - icon: linkedin
       text: LinkedIn
-      href: https://www.linkedin.com/
+      href: https://www.linkedin.com/in/rasmus-frigaard-lemvig-209ab624a/
 ---
 
 ## Welcome to my website! 
