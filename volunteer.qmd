@@ -51,6 +51,8 @@ I have helped as a volunteer in many evening lectures in UNF. I have also arrang
 
 I have taught several workshops in mathematics. A list is below:
 
+* Differential calculus: [Material](UNF/Workshops/Differentialregning-intro.pdf), [presentation](UNF/Workshops/DifferentialregningBeamer.pdf)
+* Integral calculus: [Material](UNF/Workshops/Integralregning-intro.pdf), [presentation](UNF/Workshops/IntegralregningBeamer.pdf)
 * Differential equations: [Material](UNF/Workshops/Workshop_om_differentialligninger.pdf), [presentation](UNF/Workshops/DifferentialligningerBeamer.pdf)
 * Linear algebra: [Material](UNF/Workshops/LinAlg-intro.pdf), [presentation](UNF/Workshops/LineærAlgebraBeamer.pdf)
 * Series and sequences: [Material](UNF/Workshops/Workshop_om_følger_og_rækker.pdf), [presentation](UNF/Workshops/FølgerOgRækkerBeamer.pdf)
