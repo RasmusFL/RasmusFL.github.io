@@ -1,5 +1,5 @@
 ---
-title: "Projects"
+title: "Projects and notes"
 toc: false
 format: 
   html:
@@ -7,6 +7,9 @@ format:
 ---
 
 In this tab is a collection of all projects, I find relevant to share.
+
+## Lecture notes in Stochastic Processes in Non-Life Insurance
+I wrote lecture notes for the course Stochastic Processes in Non-Life Insurance (abbreviated SkadeStok) during my 6th year. A first draft is [here](Documents/SkadeStok.pdf).
 
 ## (First) Bachelor's thesis
 I wrote my first bachelor project in cubic and quartic reciprocity with perspectives to class field theory. My supervisor was Ian Kiming. I first present the necessary machinery needed to give elementary (but somewhat tedious) proofs of the two main theorems, namely Cubic Reciprocity and Quartic Reciprocity. Afterwards, I take a dive into Kummer theory and class field theory in order to obtain a more high level proof of cubic reciprocity. I also spent some time writing and implementing algorithms to compute the cubic and quartic residue symbols in C++. The code is found in the following repositories:
@@ -16,6 +19,6 @@ I wrote my first bachelor project in cubic and quartic reciprocity with perspect
 
 Note that in order to compile the code, you need the [GMP library](https://gmplib.org/). For many, it is likely easier to rewrite the essential algorithms in another language.
 
-A revised version of the complete project can be found [here](project_revised.pdf). In the revised version, a few errors and typos have been corrected. The last section on class field theory likely has some errors remaining.
+A revised version of the complete project can be found [here](Documents/project_revised.pdf). In the revised version, a few errors and typos have been corrected. The last section on class field theory likely has some errors remaining.
 
 
