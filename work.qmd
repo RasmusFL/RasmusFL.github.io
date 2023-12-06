@@ -13,6 +13,8 @@ at the University of Copenhagen, Department of Mathematical Sciences (September 
   + BrushUp course in mathematics + BrushUp for biochemistry
   + Lebesgue Integral and Measure Theory
   + Stochastic Processes in Non-Life Insurance
+  + Advanced Probability Theory 2
+  + Continuous Time Finance
   + Study Café
 
 * 2022/2023

@@ -58,6 +58,7 @@ I have taught several workshops in mathematics. A list is below:
 * Series and sequences: [Material](UNF/Workshops/Workshop_om_følger_og_rækker.pdf), [presentation](UNF/Workshops/FølgerOgRækkerBeamer.pdf)
 * Number theory: [Material](UNF/Workshops/Talteori-intro.pdf), [presentation](UNF/Workshops/TalteoriBeamer.pdf)
 * Graph theory: [Material](UNF/Workshops/Grafteori-intro.pdf), [presentation](UNF/Workshops/GrafteoriBeamer.pdf)
+* Vectors and parametrized curves:  [Material](UNF/Workshops/Vektorer_og_vektorfunktioner-intro.pdf), [presentation](UNF/Workshops/Vektorer_og_vektorfunktionerBeamer.pdf)
 
 ### Evenings of Natural Science Education
 
