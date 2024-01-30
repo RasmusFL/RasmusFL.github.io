@@ -15,6 +15,7 @@ at the University of Copenhagen, Department of Mathematical Sciences (September 
   + Stochastic Processes in Non-Life Insurance
   + Advanced Probability Theory 2
   + Continuous Time Finance
+  + Analysis 0
   + Study Café
 
 * 2022/2023

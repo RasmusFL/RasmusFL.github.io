@@ -8,10 +8,18 @@ format:
 
 In this tab is a collection of all projects, I find relevant to share.
 
-## Lecture notes in Stochastic Processes in Non-Life Insurance
+### Lecture notes in Quantitative Risk Management
+
+I wrote lecture notes for the course Quantitative Risk Management during my 6th year. A first draft is [here](Documents/QRM.pdf). Should you want solutions to exercises or have you found typos, you are very welcome to write to me.
+
+### A tour of the Eisenstein integers
+
+A short note on the ring of Eisenstein integers is available [here](Documents/EI.pdf). My motivation for writing these notes is twofold. First of all, when writing my bachelor project, I swept a lot of details under the rug when implementing the algorithms for the Eisenstein integers. Second, I have not been able to find a comprehensive description of this ring online. This paper hopefully constitutes a thorough introduction.
+
+### Lecture notes in Stochastic Processes in Non-Life Insurance
 I wrote lecture notes for the course Stochastic Processes in Non-Life Insurance (abbreviated SkadeStok) during my 6th year. A first draft is [here](Documents/SkadeStok.pdf).
 
-## (First) Bachelor's thesis
+### (First) Bachelor's thesis
 I wrote my first bachelor project in cubic and quartic reciprocity with perspectives to class field theory. My supervisor was Ian Kiming. I first present the necessary machinery needed to give elementary (but somewhat tedious) proofs of the two main theorems, namely Cubic Reciprocity and Quartic Reciprocity. Afterwards, I take a dive into Kummer theory and class field theory in order to obtain a more high level proof of cubic reciprocity. I also spent some time writing and implementing algorithms to compute the cubic and quartic residue symbols in C++. The code is found in the following repositories:
 
 * [Gaussian integers](https://github.com/RasmusFL/GaussianIntegers)
