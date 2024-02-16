@@ -26,8 +26,8 @@ My role in the camp has evolved as follows:
 For those interested, the material from the camps are below:
 
 * [2019 Material](UNF/Camps/Kompendium2019.pdf)
-* [2020 Material (first camp)](UNF/Kompendium2020_1.pdf)
-* [2020 Material (second camp, minor changes and corrections)](UNF/Kompendium2020_2.pdf)
+* [2020 Material (first camp)](UNF/Camps/Kompendium2020_1.pdf)
+* [2020 Material (second camp, minor changes and corrections)](UNF/Camps/Kompendium2020_2.pdf)
 * [2021 Material](UNF/Camps/Kompendium2021.pdf)
 * [2022 Material](UNF/Camps/Kompendium2022.pdf)
 * [2023 Material](UNF/Camps/Kompendium2023.pdf)
