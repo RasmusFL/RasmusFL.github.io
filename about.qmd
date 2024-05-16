@@ -8,7 +8,7 @@ format:
 
 ## Academic interests
 
-My interests evolve around probability theory and statistics. My statistical interests are very broad, and I like both the theoretical and practical aspects of the field. In probability theory, I like everything involving stochastic processes. As for insurance, I am not yet ready to choose my direction, but I particularly like working with the mathematics of non-life insurance.
+My interests evolve around probability theory, insurance and statistics. I am very interested in different aspects of life insurance, including valuation and estimation in multi-state models. 
 
 ## Other interests
 

@@ -34,7 +34,9 @@ Below are all university level courses that I have completed. All courses were t
     + Statistics A
     + Statistics B
     + Causality
+    + Semiparametric Inference
 * Insurance and finance
+    + Topics in Life Insurance
     + Quantitative Risk Management
     + Introduction to Extreme Value Theory
     + Stochastic Processes in Non-Life Insurance
@@ -72,4 +74,4 @@ Below are all university level courses that I have completed. All courses were t
     + Introduction to Economics
     + Introduction to Numerical Analysis
 
-Total ECTS (including projects): 352.5
+Total ECTS (including projects): 367.5
