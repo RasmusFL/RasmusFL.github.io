@@ -9,6 +9,12 @@ format:
 ### Teaching assistant
 at the University of Copenhagen, Department of Mathematical Sciences (September 2020 - present). My teaching history (in order from latest to earliest) is as follows:
 
+* 2024/2025
+  + Topics in Probability
+  + Brownian Motion
+  + BrushUp course in mathematics for biochemistry
+  + Study Café
+
 * 2023/2024
   + BrushUp course in mathematics + BrushUp for biochemistry
   + Lebesgue Integral and Measure Theory

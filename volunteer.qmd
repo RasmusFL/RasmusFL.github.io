@@ -67,5 +67,5 @@ From May to September 2022, I took part in teaching young Ukrainian refugees in 
 
 ### Miscellaneous
 
-I had the role of secretary in the local branch UNF Copenhagen from July 2020 to March 2021. I was night watchman at Chemistry Camp 2019 and Computer Science Camp 2023.
+I had the role of secretary in the local branch UNF Copenhagen from July 2020 to March 2021. I was night watchman at Chemistry Camp 2019 and Computer Science Camp 2023. I was teacher at Machine Learning Camp 2024, teaching in the mathematical prerequisites for machine learning, including linear algebra, probability theory and basic regression. 
 
