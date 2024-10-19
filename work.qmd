@@ -11,6 +11,7 @@ at the University of Copenhagen, Department of Mathematical Sciences (September 
 
 * 2024/2025
   + Topics in Probability
+  + Basic Life Insurance Mathematics
   + Brownian Motion
   + BrushUp course in mathematics for biochemistry
   + Study Café

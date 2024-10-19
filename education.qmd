@@ -23,19 +23,19 @@ NEXT Sukkertoppen Gymnasium (2015 - 2018)
 Below are all university level courses that I have completed. All courses were taken at the University of Copenhagen. 
 
 * Probability theory:
-    + Probability Theory and Statistics
-    + Probability Theory/Measures and Integrals
-    + Stochastic Processes
-    + Stochastic Processes 2
     + Stochastic Processes 3
-* Statistics
-    + Mathematical Statistics
-    + Regression
-    + Statistics A
-    + Statistics B
-    + Causality
+    + Stochastic Processes 2
+    + Stochastic Processes
+    + Probability Theory/Measures and Integrals
+    + Probability Theory and Statistics
+* Statistics:
     + Semiparametric Inference
-* Insurance and finance
+    + Statistics B
+    + Statistics A
+    + Regression
+    + Causality
+    + Mathematical Statistics
+* Insurance and finance:
     + Projects in the Mathematics of Life Insurance
     + Topics in Non-Life Insurance
     + Topics in Life Insurance
@@ -48,27 +48,27 @@ Below are all university level courses that I have completed. All courses were t
     + Basic Life Insurance Mathematics
     + Basic Non-Life Insurance Mathematics
     + Continuous Time Finance
-* Analysis
-    + Analysis 0
-    + Analysis 1
-    + Lebesgue Integral and Measure Theory/Analysis 2
+* Analysis:
     + Complex Analysis
-* Algebra and number theory
-    + Linear Algebra in the Mathematical Sciences
-    + Algebra 1
-    + Algebra 2
-    + Introduction to Number Theory
-    + Algebra 3 (as a project outside course scope)
-    + Homological Algebra
+    + Lebesgue Integral and Measure Theory/Analysis 2
+    + Analysis 1
+    + Analysis 0
+* Algebra and number theory:
     + Commutative Algebra
-* Geometry and topology
-    + Geometry 1
-    + Topology
-    + Algebraic Topology
-    + Geometry 2
-    + Algebraic Geometry (as a project outside course scope)
+    + Homological Algebra
+    + Algebra 3 (as a project outside course scope)
+    + Algebra 2
+    + Algebra 1
+    + Introduction to Number Theory
+    + Linear Algebra in the Mathematical Sciences
+* Geometry and topology:
     + Algebraic Geometry 2
-* Miscellaneous
+    + Algebraic Geometry (as a project outside course scope)
+    + Geometry 2
+    + Algebraic Topology
+    + Topology
+    + Geometry 1
+* Miscellaneous:
     + Introduction to the Mathematical Sciences
     + Discrete Mathematical Methods
     + Theory of the Mathematical Sciences

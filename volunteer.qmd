@@ -38,11 +38,11 @@ UNF Mathematics Camp has been held since 2007 and is but one of many UNF summer 
 
 * 2020 (cancelled due to COVID-19): Assistant teacher.
 * 2021: Assistant teacher.
-* 2022: Teacher (subject: probability theory).
-* 2023: Teacher (subject: applied linear algebra).
-* 2024: Teacher (subject: ring theory).
+* 2022: Teacher (subject: probability theory). [Material](UNF/Camps/MatCamp2022.pdf)
+* 2023: Teacher (subject: applied linear algebra). [Material](UNF/Camps/MatCamp2023.pdf)
+* 2024: Teacher (subject: ring theory). [Material](UNF/Camps/MatCamp2024.pdf)
 
-I took part in writing the material in 2022, 2023 and 2024. The material for the 2022 camp is [here](UNF/Camps/MatCamp2022.pdf). The material for the 2023 camp is [here](UNF/Camps/MatCamp2023.pdf). The material for 2024 will be made available in the near future.
+I took part in writing the material in 2022, 2023 and 2024.
 
 ### Lectures
 
