@@ -1,4 +1,6 @@
 ---
+image: image.jpg
+toc: false
 about: 
   template: jolla
   links:
