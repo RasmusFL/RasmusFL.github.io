@@ -8,9 +8,15 @@ format:
 
 In this tab is a collection of all projects, I find relevant to share.
 
+### Master's thesis
+
+My master's thesis, supervised by Martin Bladt with Niklas Pfister as co-supervisor, is titled Machine learning methods for survival and multi-state models and is available [here](Documents/project_final.pdf).
+
+Abstract: In this thesis, we present and explore the random survival forest procedure, a machine learning algorithm for predicting the cumulative hazard from right-censored survival data. We explore the algorithm from a practical perspective by implementing the method from scratch in Julia and analysing several real datasets as well as a simulated dataset from life insurance. We furthermore investigate the theoretical properties of the algorithm by stating and proving consistency. The final part of the project concerns an extension of the random survival forest to multi-state models. We describe estimation in such a model and establish a new result on consistency for a single tree under the Markov assumption.
+
 ### Lecture notes in Quantitative Risk Management
 
-I wrote lecture notes for the course Quantitative Risk Management during my 6th year. A first draft is [here](Documents/QRM.pdf). Should you want solutions to exercises or have you found typos, you are very welcome to write to me.
+I wrote lecture notes for the course Quantitative Risk Management during my 6th year. A second draft is [here](Documents/QRMv2.pdf). Should you want solutions to exercises or have you found typos, you are very welcome to write to me.
 
 ### A tour of the Eisenstein integers
 
