@@ -41,8 +41,13 @@ UNF Mathematics Camp has been held since 2007 and is but one of many UNF summer 
 * 2022: Teacher (subject: probability theory). [Material](UNF/Camps/MatCamp2022.pdf)
 * 2023: Teacher (subject: applied linear algebra). [Material](UNF/Camps/MatCamp2023.pdf)
 * 2024: Teacher (subject: ring theory). [Material](UNF/Camps/MatCamp2024.pdf)
+* 2025: Teacher (subject: polynomials). Material will be put up later.
 
-I took part in writing the material in 2022, 2023 and 2024.
+I took part in writing the material in 2022, 2023, 2024 and 2025.
+
+### UNF Week in mathematical modelling
+
+In the summer of 2025, I took part in teaching and other duties at a new camp with a focus on mathematical modelling using differential equations. I wrote most of the material (available [here](UNF/Camps/MMU.pdf)), taught mathematical basics and an elective course in Markov chains and life insurance (chapter 6 of the book).
 
 ### Lectures
 

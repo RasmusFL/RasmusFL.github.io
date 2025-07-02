@@ -6,6 +6,9 @@ format:
     page-layout: full
 ---
 
+### PhD student
+University of Copenhagen at the Insurance and Economics section, MATH department (May 2025 - present)
+
 ### Teaching assistant
 at the University of Copenhagen, Department of Mathematical Sciences (September 2020 - present). My teaching history (in order from latest to earliest) is as follows:
 

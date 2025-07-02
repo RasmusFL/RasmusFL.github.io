@@ -6,6 +6,9 @@ format:
     page-layout: full
 ---
 
+### PhD student
+University of Copenhagen at the Insurance and Economics section, MATH department (May 2025 - present)
+
 ### Master of Science in Actuarial Mathematics 
 University of Copenhagen (November 2022 - present)
 
@@ -29,6 +32,7 @@ Below are all university level courses that I have completed. All courses were t
     + Probability Theory/Measures and Integrals
     + Probability Theory and Statistics
 * Statistics:
+    + Reading course in nonparametric Bayesian statistics
     + Semiparametric Inference
     + Statistics B
     + Statistics A
@@ -36,6 +40,7 @@ Below are all university level courses that I have completed. All courses were t
     + Causality
     + Mathematical Statistics
 * Insurance and finance:
+    + Design and Risk Management in Life Insurance
     + Projects in the Mathematics of Life Insurance
     + Topics in Non-Life Insurance
     + Topics in Life Insurance
@@ -75,5 +80,6 @@ Below are all university level courses that I have completed. All courses were t
     + Algorithms and Data Structures
     + Introduction to Economics
     + Introduction to Numerical Analysis
+    + Fundamentals PhD course (first module)
 
-Total ECTS (including projects): 412.5
+Total ECTS (including projects): 425.5
