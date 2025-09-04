@@ -23,31 +23,22 @@ My role in the camp has evolved as follows:
 * 2022: Coordinator and teacher in mathematics (subject: graph theory version 2).
 * 2023: Coordinator and teacher in mathematics (subject: set theory and probability theory).
 
-For those interested, the material from the camps are below:
-
-* [2019 Material](UNF/Camps/Kompendium2019.pdf)
-* [2020 Material (first camp)](UNF/Camps/Kompendium2020_1.pdf)
-* [2020 Material (second camp, minor changes and corrections)](UNF/Camps/Kompendium2020_2.pdf)
-* [2021 Material](UNF/Camps/Kompendium2021.pdf)
-* [2022 Material](UNF/Camps/Kompendium2022.pdf)
-* [2023 Material](UNF/Camps/Kompendium2023.pdf)
-
 ### UNF Mathematics Camp
 
 UNF Mathematics Camp has been held since 2007 and is but one of many UNF summer camps. In fact, a (Danish) [Wikipedia article](https://da.wikipedia.org/wiki/ScienceCamps) is dedicated to keeping track of them. My role in the project is as follows:
 
 * 2020 (cancelled due to COVID-19): Assistant teacher.
 * 2021: Assistant teacher.
-* 2022: Teacher (subject: probability theory). [Material](UNF/Camps/MatCamp2022.pdf)
-* 2023: Teacher (subject: applied linear algebra). [Material](UNF/Camps/MatCamp2023.pdf)
-* 2024: Teacher (subject: ring theory). [Material](UNF/Camps/MatCamp2024.pdf)
+* 2022: Teacher (subject: probability theory).
+* 2023: Teacher (subject: applied linear algebra). 
+* 2024: Teacher (subject: ring theory).
 * 2025: Teacher (subject: polynomials). Material will be put up later.
 
 I took part in writing the material in 2022, 2023, 2024 and 2025.
 
 ### UNF Week in mathematical modelling
 
-In the summer of 2025, I took part in teaching and other duties at a new camp with a focus on mathematical modelling using differential equations. I wrote most of the material (available [here](UNF/Camps/MMU.pdf)), taught mathematical basics and an elective course in Markov chains and life insurance (chapter 6 of the book).
+In the summer of 2025, I took part in teaching and other duties at a new camp with a focus on mathematical modelling using differential equations. I wrote most of the material, taught mathematical basics and an elective course in Markov chains and life insurance (chapter 6 of the book).
 
 ### Lectures
 
