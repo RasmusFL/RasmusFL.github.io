@@ -17,6 +17,8 @@ website:
       href: work.qmd
     - text: "Volunteer work"
       href: volunteer.qmd
+    - text: "Manuscripts"
+      href: manuscripts.qmd
     - text: "Projects"
       href: projects.qmd
 #    - text: "Blogposts" 
