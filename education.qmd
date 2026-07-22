@@ -23,7 +23,7 @@ NEXT Sukkertoppen Gymnasium (2015 - 2018)
 
 ## Courses completed
 
-Below are all university level courses that I have completed. All courses were taken at the University of Copenhagen. 
+Below are all university level courses that I have completed. All courses were taken at the University of Copenhagen.
 
 * Probability theory:
     + Stochastic Processes 3
@@ -81,6 +81,6 @@ Below are all university level courses that I have completed. All courses were t
     + Algorithms and Data Structures
     + Introduction to Economics
     + Introduction to Numerical Analysis
-    + Fundamentals PhD course (modules 1 and 2)
+    + Fundamentals PhD course (modules 1,2 and 3)
 
-Total ECTS (including projects): 428
+Total ECTS (including projects): 430.5

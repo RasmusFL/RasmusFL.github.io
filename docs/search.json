@@ -46,7 +46,7 @@
     "href": "education.html#courses-completed",
     "title": "Education",
     "section": "Courses completed",
-    "text": "Courses completed\nBelow are all university level courses that I have completed. All courses were taken at the University of Copenhagen.\n\nProbability theory:\n\nStochastic Processes 3\nStochastic Processes 2\nStochastic Processes\nProbability Theory/Measures and Integrals\nProbability Theory and Statistics\n\nStatistics:\n\nReading course in nonparametric Bayesian statistics\nSemiparametric Inference\nStatistics B\nStatistics A\nRegression\nCausality\nMathematical Statistics\n\nInsurance and finance:\n\nMonte Carlo Methods in Insurance and Finance\nDesign and Risk Management in Life Insurance\nProjects in the Mathematics of Life Insurance\nTopics in Non-Life Insurance\nTopics in Life Insurance\nQuantitative Risk Management\nIntroduction to Extreme Value Theory\nStochastic Processes in Non-Life Insurance\nStochastic Processes in Life Insurance\nAccounting and Law\nInsurance and Law\nBasic Life Insurance Mathematics\nBasic Non-Life Insurance Mathematics\nContinuous Time Finance\n\nAnalysis:\n\nComplex Analysis\nLebesgue Integral and Measure Theory/Analysis 2\nAnalysis 1\nAnalysis 0\n\nAlgebra and number theory:\n\nCommutative Algebra\nHomological Algebra\nAlgebra 3 (as a project outside course scope)\nAlgebra 2\nAlgebra 1\nIntroduction to Number Theory\nLinear Algebra in the Mathematical Sciences\n\nGeometry and topology:\n\nAlgebraic Geometry 2\nAlgebraic Geometry (as a project outside course scope)\nGeometry 2\nAlgebraic Topology\nTopology\nGeometry 1\n\nMiscellaneous:\n\nIntroduction to the Mathematical Sciences\nDiscrete Mathematical Methods\nTheory of the Mathematical Sciences\nAlgorithms and Data Structures\nIntroduction to Economics\nIntroduction to Numerical Analysis\nFundamentals PhD course (modules 1 and 2)\n\n\nTotal ECTS (including projects): 428"
+    "text": "Courses completed\nBelow are all university level courses that I have completed. All courses were taken at the University of Copenhagen.\n\nProbability theory:\n\nStochastic Processes 3\nStochastic Processes 2\nStochastic Processes\nProbability Theory/Measures and Integrals\nProbability Theory and Statistics\n\nStatistics:\n\nReading course in nonparametric Bayesian statistics\nSemiparametric Inference\nStatistics B\nStatistics A\nRegression\nCausality\nMathematical Statistics\n\nInsurance and finance:\n\nMonte Carlo Methods in Insurance and Finance\nDesign and Risk Management in Life Insurance\nProjects in the Mathematics of Life Insurance\nTopics in Non-Life Insurance\nTopics in Life Insurance\nQuantitative Risk Management\nIntroduction to Extreme Value Theory\nStochastic Processes in Non-Life Insurance\nStochastic Processes in Life Insurance\nAccounting and Law\nInsurance and Law\nBasic Life Insurance Mathematics\nBasic Non-Life Insurance Mathematics\nContinuous Time Finance\n\nAnalysis:\n\nComplex Analysis\nLebesgue Integral and Measure Theory/Analysis 2\nAnalysis 1\nAnalysis 0\n\nAlgebra and number theory:\n\nCommutative Algebra\nHomological Algebra\nAlgebra 3 (as a project outside course scope)\nAlgebra 2\nAlgebra 1\nIntroduction to Number Theory\nLinear Algebra in the Mathematical Sciences\n\nGeometry and topology:\n\nAlgebraic Geometry 2\nAlgebraic Geometry (as a project outside course scope)\nGeometry 2\nAlgebraic Topology\nTopology\nGeometry 1\n\nMiscellaneous:\n\nIntroduction to the Mathematical Sciences\nDiscrete Mathematical Methods\nTheory of the Mathematical Sciences\nAlgorithms and Data Structures\nIntroduction to Economics\nIntroduction to Numerical Analysis\nFundamentals PhD course (modules 1,2 and 3)\n\n\nTotal ECTS (including projects): 430.5"
   },
   {
     "objectID": "manuscripts.html",
@@ -60,21 +60,21 @@
     "href": "about.html",
     "title": "About me",
     "section": "",
-    "text": "My interests revolve around probability theory, insurance, statistics and machine learning. I am very interested in different aspects of life insurance, including valuation and estimation in multi-state models."
+    "text": "My interests revolve around probability theory, insurance, statistics and machine learning. I am very interested in different aspects of life insurance, primarily in the statistics of multi-state models."
   },
   {
     "objectID": "about.html#academic-interests",
     "href": "about.html#academic-interests",
     "title": "About me",
     "section": "",
-    "text": "My interests revolve around probability theory, insurance, statistics and machine learning. I am very interested in different aspects of life insurance, including valuation and estimation in multi-state models."
+    "text": "My interests revolve around probability theory, insurance, statistics and machine learning. I am very interested in different aspects of life insurance, primarily in the statistics of multi-state models."
   },
   {
     "objectID": "about.html#other-interests",
     "href": "about.html#other-interests",
     "title": "About me",
     "section": "Other interests",
-    "text": "Other interests\nI love reading, especially science fiction (Arthur C. Clarke, Isaac Asimov and Frank Herbert are among my favorites) and fantasy (Narnia and The Lord of The Rings especially). I am also learning German.\nAs for interests not involving reading, I dance folk dance weekly and I like to run, preferably aroung three times a week. I also like to swim in the summer. Teaching mathematics is also a hobby.\nIn regards to music, I like many different genres. I listen to classical, rock, metal (especially power metal), synth, jazz and soul regularly."
+    "text": "Other interests\nI love reading, especially science fiction (Arthur C. Clarke, Isaac Asimov and Frank Herbert are among my favorites) and fantasy (Narnia and The Lord of The Rings especially). I am also learning German.\nAs for interests not involving reading, I dance folk dance weekly and I like to run, at least three times per week. I also like to swim in the summer. Teaching mathematics is also a hobby.\nIn regards to music, I like many different genres. I listen to classical, rock, metal (especially power metal), synth, jazz and soul regularly."
   },
   {
     "objectID": "projects.html",

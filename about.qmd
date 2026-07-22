@@ -8,13 +8,13 @@ format:
 
 ## Academic interests
 
-My interests revolve around probability theory, insurance,  statistics and machine learning. I am very interested in different aspects of life insurance, including valuation and estimation in multi-state models. 
+My interests revolve around probability theory, insurance,  statistics and machine learning. I am very interested in different aspects of life insurance, primarily in the statistics of multi-state models.
 
 ## Other interests
 
 I love reading, especially science fiction (Arthur C. Clarke, Isaac Asimov and Frank Herbert are among my favorites) and fantasy (Narnia and The Lord of The Rings especially). I am also learning German.
 
-As for interests not involving reading, I dance folk dance weekly and I like to run, preferably aroung three times a week. I also like to swim in the summer. Teaching mathematics is also a hobby.
+As for interests not involving reading, I dance folk dance weekly and I like to run, at least three times per week. I also like to swim in the summer. Teaching mathematics is also a hobby.
 
 In regards to music, I like many different genres. I listen to classical, rock, metal (especially power metal), synth, jazz and soul regularly.
 
