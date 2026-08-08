@@ -12,7 +12,7 @@ about:
       href: https://www.linkedin.com/in/rasmus-frigaard-lemvig-209ab624a/
 ---
 
-## Welcome to my website! 
+## Welcome to my website!
 
 This website contains more or less all you need to know about me. More things to come. Feel free to explore! 
 

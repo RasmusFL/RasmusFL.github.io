@@ -7,7 +7,7 @@ format:
 ---
 
 ### PhD student
-University of Copenhagen at the Insurance and Economics section, MATH department (May 2025 - present)
+University of Copenhagen at the Insurance and Economics section, MATH department (May 2025 - present). My research revolves around machine learning methods for estimation in multi-state models. I have been TA in the courses Statistics for Insurance and Quantitative Risk Management. I will be TA again in the former from September 2026 to January 2027.
 
 ### Teaching assistant
 at the University of Copenhagen, Department of Mathematical Sciences (September 2020 - present). My teaching history (in order from latest to earliest) is as follows:
