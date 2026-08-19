@@ -8,6 +8,10 @@ format:
 
 In this tab is a collection of all projects, I find relevant to share.
 
+### JumpForests: A random forest R package for estimation in multi-state models
+
+The package is available on GitHub [here](https://github.com/martinbladt/JumpForests). A thorough guide with illustrations is in the works.
+
 ### Lecture notes in Quantitative Risk Management
 
 A revised third edition is [here](Documents/QRMbookMar21_2026.pdf), and a fourth edition is in preparation. It should be available before February 2027. Should you want solutions to exercises or have you found typos, you are very welcome to write to me. These notes are continuously under development and are used as the primary course material for the course QRM at the University of Copenhagen. 
