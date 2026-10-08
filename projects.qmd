@@ -10,7 +10,7 @@ In this tab is a collection of all projects, I find relevant to share.
 
 ### JumpForests: A random forest R package for estimation in multi-state models
 
-The package is available on GitHub [here](https://github.com/martinbladt/JumpForests). A thorough guide with illustrations is in the works.
+The package is available on GitHub [here](https://github.com/martinbladt/JumpForests), where an installation guide may also be found. A thorough guide with illustrations can be found [here](Documents/Example.html). The guide covers fitting, the different tuning parameters and variable importance.
 
 ### Lecture notes in Quantitative Risk Management
 
