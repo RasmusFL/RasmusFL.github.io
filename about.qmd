@@ -8,14 +8,25 @@ format:
 
 ## Academic interests
 
-My interests revolve around probability theory, insurance,  statistics and machine learning. I am very interested in different aspects of life insurance, primarily in the statistics of multi-state models.
+My academic interests include (but are not limited to) probability theory, statistics and machine learning in the context of life insurance and biostatistics as well as mathematical finance and risk management.
 
 ## Other interests
 
 I love reading, especially science fiction (Arthur C. Clarke, Isaac Asimov and Frank Herbert are among my favorites) and fantasy (Narnia and The Lord of The Rings especially). I am also learning German.
 
-As for interests not involving reading, I dance folk dance weekly and I like to run, at least three times per week. I also like to swim in the summer. Teaching mathematics is also a hobby.
+As for interests not involving reading, I like Danish folk dance and I like to run, at least three times per week. I also like to swim in the summer. Teaching and writing mathematics are also hobbies.
 
 In regards to music, I like many different genres. I listen to classical, rock, metal (especially power metal), synth, jazz and soul regularly.
 
+## Friends
 
+Check out the webpages of some of my friends here:
+
+* Laus Wolsing Wullum: [https://lauswullum.github.io/](https://lauswullum.github.io/)
+* Adam Gorm Hoffmann: [https://adamgorm.dk/](https://adamgorm.dk/)
+* Valdemar Skou Knudsen: [https://valdemarskou.github.io/](https://valdemarskou.github.io/)
+* Sophus Valentin Willumsgaard: [https://sophuswald.github.io/](https://sophuswald.github.io/)
+* Magnus Rahbek Dalgaard Hansen: [https://www.maraha.dk/](https://www.maraha.dk/)
+* Johan Christian Dam Madsen: [https://missing-almost-everywhere.github.io/Missing-almost-everywhere.io/](https://missing-almost-everywhere.github.io/Missing-almost-everywhere.io/)
+* Jinyang Liu: [https://jyliuu.github.io/](https://jyliuu.github.io/)
+* Emil Rugaard Wieser: [https://people.mpi-sws.org/~ewieser/](https://people.mpi-sws.org/~ewieser/)

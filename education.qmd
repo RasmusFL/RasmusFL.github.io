@@ -81,6 +81,6 @@ Below are all university level courses that I have completed. All courses were t
     + Algorithms and Data Structures
     + Introduction to Economics
     + Introduction to Numerical Analysis
-    + Fundamentals PhD course (modules 1,2 and 3)
+    + Fundamentals PhD courses
 
-Total ECTS (including projects): 430.5
+Total ECTS (including projects): 440.5
