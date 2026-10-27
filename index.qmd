@@ -10,6 +10,9 @@ about:
     - icon: linkedin
       text: LinkedIn
       href: https://www.linkedin.com/in/rasmus-frigaard-lemvig-209ab624a/
+    - icon: mortarboard
+      text: Google Scholar
+      href: https://scholar.google.com/citations?user=O0fmB2wAAAAJ
 ---
 
 ## Welcome to my website!
